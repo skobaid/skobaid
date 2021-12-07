@@ -33,7 +33,7 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
+[1]: https://twitter.com/skobaid313
 [2]: https://www.facebook.com/ubaid.shaikh.754
 [6]: https://github.com/skobaid 
 
