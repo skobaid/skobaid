@@ -34,7 +34,7 @@
 <!-- update these accordingly -->
 
 [1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
+[2]: https://www.facebook.com/ubaid.shaikh.754
 [6]: https://github.com/skobaid 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
