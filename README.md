@@ -8,3 +8,4 @@
 skobaid/skobaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![code](https://user-images.githubusercontent.com/95070348/145007148-15ce7623-ee58-401b-955e-f9570b449ed7.gif)
