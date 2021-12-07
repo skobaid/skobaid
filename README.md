@@ -5,34 +5,19 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 skobaid313 ...
 
+<p>
+ 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BadgeText-HexColor?logo=NodeJs&logoColor=Green&style=ShieldStyle" />
+</p>
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
 
 [1]: https://twitter.com/skobaid313
 [2]: https://www.facebook.com/ubaid.shaikh.754
 [6]: https://github.com/skobaid 
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 
 
 <!---
