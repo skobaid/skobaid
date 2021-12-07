@@ -35,7 +35,7 @@
 
 [1]: http://www.twitter.com/carlsednaoui
 [2]: http://www.facebook.com/sednaoui
-[6]: http://www.github.com/carlsednaoui
+[6]: https://github.com/skobaid 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
