@@ -9,7 +9,7 @@
  
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BadgeText-HexColor?logo=NodeJs&logoColor=Green&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/NodeJs-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 </p>
 
 
