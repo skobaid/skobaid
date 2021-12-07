@@ -7,9 +7,12 @@
 
 <p>
  
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NodeJs-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/ExpressJs-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/JavaScript-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/MongoDb-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/FrontEnd-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+  <img src="https://img.shields.io/badge/Python-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 </p>
 
 
