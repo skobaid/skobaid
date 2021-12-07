@@ -5,20 +5,27 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 skobaid313 ...
 
-<p>
- 
-  <img src="https://img.shields.io/badge/NodeJs-HexColor?logo=nodejs&logoColor=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/ExpressJs-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/JavaScript-HexColor?logo=SimpleIconName&logoColor=yellow&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/MongoDb-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/FrontEnd-HexColor?logo=SimpleIconName&logoColor=red&style=ShieldStyle" />
-  <img src="https://img.shields.io/badge/Python-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
-</p>
+<a href="https://twitter.com/skobaid313">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.instagram.com/aleks.popovic/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.linkedin.com/in/alekspopovic/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
 
 
-[1]: https://twitter.com/skobaid313
-[2]: https://www.facebook.com/ubaid.shaikh.754
-[6]: https://github.com/skobaid 
+
 
 
 
