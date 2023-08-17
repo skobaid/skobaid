@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @skobaid  welcome to my GitHub page 👋
 - 👀 I’m interested in Web Development..
-- 🌱 I’m currently learning Node..
+- 🌱 Backend Developer (NodeJS)..
 - 💞️ I’m looking to collaborate on ...
 - 📫 skobaid313 ...
 
